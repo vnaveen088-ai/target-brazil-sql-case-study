@@ -597,8 +597,8 @@ This project demonstrates:
 ## 👤 Author
 
 **Naveen V**  
-- 📧 Email: [your-email@example.com]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: [vnaveen088@gmail.com]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/naveen-kumar-1220b6266/]
 - 🌐 Portfolio: [Your Portfolio Website]
 
 ---
